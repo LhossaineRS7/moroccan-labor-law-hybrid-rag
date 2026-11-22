@@ -5,8 +5,8 @@ services:
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-      # JVM limit set exactly to 1GB RAM
-      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+      # JVM limit set exactly to 512MB RAM
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
     #  Hard limit for the Docker container itself
     mem_limit: 1g
     ports:
