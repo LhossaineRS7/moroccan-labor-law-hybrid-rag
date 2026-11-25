@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Est-il possible de mettre fin à une convention collective à durée indéterminée de manière unilatérale ?",
+    "expected_article": "116",
+    "answer": "Oui, selon l'article 116, la convention collective de travail à durée indéterminée peut cesser à n'importe quel moment par la volonté de l'une des parties. \n\nCette dénonciation doit toutefois être notifiée au moins un mois avant la date prévue pour son expiration à toutes les parties, au greffe du tribunal compétent et à l'autorité gouvernementale chargée du travail.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite correctement l'article 116 et précise les conditions de forme nécessaires à la dénonciation unilatérale."
+  },
+  {
+    "question": "Quelles sont les formalités et le délai à respecter pour notifier la dénonciation d'une convention collective ?",
+    "expected_article": "116",
+    "answer": "Selon l'article 116 de la loi 65-99, les formalités et le délai pour notifier la dénonciation d'une convention collective sont les suivants :\n\n*   **Délai :** La dénonciation doit être notifiée au moins un mois avant la date prévue pour l'expiration de la convention.\n*   **Formalités de notification :** La dénonciation doit être notifiée à toutes les parties signataires, au greffe du tribunal compétent et à l'autorité gouvernementale chargée du travail.\n*   **Cas particulier :** Si la dénonciation est motivée par la volonté de provoquer une révision de certaines dispositions, un projet de modification doit être joint à la notification.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est conforme aux dispositions de l'article 116 du Code du travail marocain, précisant correctement le délai et les formalités de notification."
+  },
+  {
+    "question": "Que dois-je faire si je souhaite seulement modifier certaines clauses de notre convention collective au lieu de la rompre totalement ?",
+    "expected_article": "116",
+    "answer": "Si vous souhaitez provoquer la révision de certaines dispositions de la convention collective, vous devez procéder à une dénonciation de celle-ci en y joignant un projet de modification.\n\nCette dénonciation doit être notifiée au moins un mois avant la date prévue pour son expiration à toutes les parties, au greffe du tribunal compétent et à l'autorité gouvernementale chargée du travail.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse identifie correctement la procédure de révision prévue par l'article 116 du Code du travail marocain en précisant les modalités de dénonciation et de notification."
+  },
+  {
+    "question": "Est-ce que mon employeur a le droit d'exiger que mon cautionnement soit constitué d'actions d'entreprises privées ?",
+    "expected_article": "27",
+    "answer": "Non. Selon l'article 27, si le cautionnement est constitué de titres, il ne peut comprendre que des titres émis par l'État ou jouissant de sa garantie. Les actions d'entreprises privées ne sont donc pas autorisées.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite correctement l'article 27 du Code du travail marocain et répond précisément à la question posée."
+  },
+  {
+    "question": "Quels types de titres financiers suis-je autorisé à déposer en garantie auprès de mon employeur pour mon cautionnement ?",
+    "expected_article": "27",
+    "answer": "Conformément à l'article 27 du Code du travail, si le cautionnement est constitué de titres, vous ne pouvez déposer que des titres émis par l'État ou jouissant de sa garantie.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse cite correctement l'article 27 du Code du travail et précise exactement les types de titres autorisés pour le cautionnement."
+  },
+  {
+    "question": "Mon patron refuse les obligations privées pour mon cautionnement et n'accepte que des titres garantis par l'État, est-ce légal ?",
+    "expected_article": "27",
+    "answer": "Oui, c'est légal. Selon l'article 27 du Code du travail, si le cautionnement est constitué de titres, il ne peut comprendre que des titres émis par l'État ou jouissant de sa garantie.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite correctement l'article 27 du Code du travail marocain et répond directement à la problématique posée."
+  },
+  {
+    "question": "Mon employeur a-t-il le droit de m'obliger à utiliser une machine dont l'utilisation est officiellement reconnue comme dangereuse pour la santé ?",
+    "expected_article": "287",
+    "answer": "Non, votre employeur n'a pas le droit de vous obliger à utiliser une telle machine.\n\nSelon l'article 287 du Code du travail (Loi 65-99), il est formellement interdit à l'employeur de permettre à ses salariés l'utilisation d'appareils ou de machines qui sont reconnus par l'autorité compétente comme étant susceptibles de porter atteinte à leur santé ou de compromettre leur sécurité.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite précisément l'article de référence et répond directement à la question posée en confirmant l'interdiction légale."
+  },
+  {
+    "question": "Quelles sont mes obligations en tant qu'employeur si je souhaite faire utiliser à mes salariés des produits chimiques ou des substances potentiellement nocives ?",
+    "expected_article": "287",
+    "answer": "En tant qu'employeur, vos obligations concernant l'utilisation de produits chimiques ou de substances potentiellement nocives sont les suivantes :\n\n*   **Interdiction d'utilisation dangereuse :** Il vous est interdit de permettre l'utilisation de produits ou substances reconnus par l'autorité compétente comme étant susceptibles de porter atteinte à la santé ou de compromettre la sécurité des salariés (Article 287).\n*   **Respect des conditions réglementaires :** Si l'utilisation de ces produits est autorisée, vous devez impérativement respecter les conditions fixées par voie réglementaire (Article 287).\n*   **Étiquetage et avertissement :** Vous devez vous assurer que les emballages des substances ou préparations dangereuses comportent un avertissement clair sur le danger que présente leur emploi (Article 288).\n*   **Hygiène et sécurité particulières :** Si votre activité concerne des installations chimiques, vous devez garantir aux salariés des conditions d'hygiène et de sécurité conformes aux prescriptions fixées par voie réglementaire (Article 294).",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse cite correctement l'article 287 demandé tout en complétant utilement avec d'autres dispositions pertinentes du Code du travail marocain sur la sécurité chimique."
+  },
+  {
+    "question": "Est-il légal pour une entreprise de demander à son personnel d'utiliser des équipements de travail sans respecter les conditions de sécurité fixées par la réglementation ?",
+    "expected_article": "287",
+    "answer": "Non, ce n'est pas légal.\n\nSelon l'article 287 du Code du travail (Loi 65-99), il est formellement interdit à l'employeur de permettre à ses salariés l'utilisation d'appareils ou de machines dans des conditions contraires à celles fixées par voie réglementaire, dès lors que ces équipements sont susceptibles de porter atteinte à leur santé ou de compromettre leur sécurité.\n\nDe plus, l'article 289 précise qu'il est interdit de demander à un salarié d'utiliser une machine sans que les dispositifs de protection dont elle est pourvue soient en place.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite précisément l'article de référence attendu et apporte des précisions complémentaires pertinentes sur la sécurité au travail."
+  },
+  {
+    "question": "Si je démissionne sans respecter mon délai de préavis, mon employeur a-t-il le droit de déduire le montant correspondant de mes congés payés non pris ?",
+    "expected_article": "255",
+    "answer": "Oui, selon l'article 255 du Code du travail, lorsqu'un salarié rompt son contrat de travail sans respecter le délai de préavis, l'employeur a le droit d'opérer une compensation entre l'indemnité du congé annuel payé et l'indemnité de préavis.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse cite correctement l'article 255 du Code du travail marocain et confirme explicitement la possibilité de compensation entre l'indemnité de préavis et celle des congés payés."
+  },
+  {
+    "question": "Est-ce qu'une entreprise peut compenser financièrement le non-respect du préavis par un salarié en retenant une partie de son indemnité de congé annuel ?",
+    "expected_article": "255",
+    "answer": "Oui, selon l'article 255 du Code du travail, lorsqu'un salarié rompt son contrat de travail sans respecter le préavis dû, l'employeur peut opérer une compensation entre l'indemnité du congé annuel payé et l'indemnité de préavis.",
+    "relevance": "NON_RELEVANT",
+    "explanation": "L'article 255 du Code du travail marocain ne traite pas de la compensation du préavis, mais concerne les sanctions disciplinaires et les retenues sur salaire, et aucune disposition légale ne permet de compenser le préavis par l'indemnité de congé payé."
+  },
+  {
+    "question": "Que se passe-t-il au niveau de mon solde de tout compte si je quitte mon poste brusquement sans effectuer la période de préavis prévue ?",
+    "expected_article": "255",
+    "answer": "Conformément à l'article 51 du Code du travail, toute rupture du contrat de travail à durée indéterminée effectuée sans préavis ou sans que le délai de préavis ait été intégralement observé, emporte, tant qu'elle n'est pas motivée par une faute grave, l'obligation pour la partie responsable de verser à l'autre partie une indemnité de préavis.\n\nCette indemnité est égale à la rémunération qu'aurait perçue le salarié s'il était demeuré à son poste. Par conséquent, si vous quittez votre poste brusquement sans respecter le préavis, vous êtes tenu de verser cette indemnité à votre employeur, ce qui impactera votre solde de tout compte.",
+    "relevance": "PARTLY_RELEVANT",
+    "explanation": "Bien que la réponse soit juridiquement exacte sur le fond, elle cite l'article 51 au lieu de l'article 255 du Code du travail tel que requis par la consigne."
+  },
+  {
+    "question": "Je travaille dans la même entreprise depuis 6 ans, ai-je droit à des jours de congé supplémentaires par rapport à la durée légale de base ?",
+    "expected_article": "232",
+    "answer": "Je n'ai pas l'information.",
+    "relevance": "NON_RELEVANT",
+    "explanation": "Le système a échoué à extraire l'information alors que l'article 232 du Code du travail marocain prévoit explicitement des jours de congé supplémentaires basés sur l'ancienneté."
+  },
+  {
+    "question": "Est-ce que mon ancienneté me permet d'augmenter mon nombre de jours de vacances annuelles, et si oui, y a-t-il une limite maximale ?",
+    "expected_article": "232",
+    "answer": "Je n'ai pas l'information.",
+    "relevance": "NON_RELEVANT",
+    "explanation": "Le système a déclaré ne pas avoir l'information alors que l'article 232 du Code du travail marocain répond explicitement à la question sur l'augmentation des congés selon l'ancienneté."
+  },
+  {
+    "question": "Après 12 ans de service dans ma société, comment est calculé le supplément de jours de congé auquel je peux prétendre ?",
+    "expected_article": "232",
+    "answer": "Selon l'article 232 du Code du travail, la durée du congé annuel payé est augmentée à raison d'un jour et demi de travail effectif par période entière, continue ou non, de cinq années de service.\n\nPour 12 ans de service, vous avez complété deux périodes entières de cinq ans (soit 10 ans au total). Par conséquent, vous bénéficiez d'un supplément de 3 jours de travail effectif (1,5 jour x 2 périodes), sans que la durée totale de votre congé ne puisse dépasser trente jours de travail effectif.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse cite correctement l'article 232 et applique précisément le calcul légal du supplément de congé en fonction de l'ancienneté mentionnée."
+  },
+  {
+    "question": "Est-il possible d'embaucher un enfant de moins de 18 ans comme acteur dans un spectacle public et quelles sont les démarches administratives à suivre ?",
+    "expected_article": "145",
+    "answer": "Oui, il est possible d'embaucher un mineur de moins de 18 ans comme comédien ou interprète dans des spectacles publics, sous réserve d'obtenir une autorisation.\n\nLes démarches administratives à suivre sont les suivantes :\n\n*   **Obtention d'une autorisation écrite :** Vous devez obtenir une autorisation écrite délivrée par l'agent chargé de l'inspection du travail. Cette autorisation est requise pour chaque mineur.\n*   **Consultation du tuteur :** L'autorisation est délivrée après consultation du tuteur du mineur.\n\nIl est précisé que l'agent chargé de l'inspection du travail a le pouvoir de retirer cette autorisation, soit à son initiative, soit à l'initiative de toute personne habilitée à cet effet.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, conforme aux dispositions de l'article 145 du Code du travail marocain et détaille correctement les démarches administratives requises."
+  },
+  {
+    "question": "Mon enfant mineur souhaite travailler dans le milieu du spectacle, est-ce que mon accord en tant que tuteur suffit ou faut-il une autorisation supplémentaire ?",
+    "expected_article": "145",
+    "answer": "Non, votre accord en tant que tuteur ne suffit pas.\n\nSelon l'article 145, aucun mineur de moins de 18 ans ne peut être employé comme comédien ou interprète dans les spectacles publics sans une **autorisation écrite préalablement remise par l'agent chargé de l'inspection du travail** pour chaque mineur. Cette autorisation est délivrée après consultation du tuteur.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite l'article de référence et précise clairement que l'autorisation de l'inspection du travail est obligatoire en plus de l'accord du tuteur."
+  },
+  {
+    "question": "L'inspecteur du travail a le droit d'annuler une autorisation de travail pour un mineur comédien après l'avoir déjà délivrée ?",
+    "expected_article": "145",
+    "answer": "Oui, l'inspecteur du travail a le droit d'annuler une autorisation de travail pour un mineur comédien. Selon l'article 145, l'agent chargé de l'inspection du travail peut procéder au retrait de l'autorisation précédemment délivrée, soit à son initiative, soit à l'initiative de toute personne habilitée à cet effet.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite correctement l'article 145 du Code du travail marocain et répond précisément à la question posée."
+  },
+  {
+    "question": "Quelles sont les démarches administratives obligatoires pour officialiser une convention collective de travail après sa signature ?",
+    "expected_article": "106",
+    "answer": "D'après les articles fournis, les démarches administratives obligatoires pour officialiser une convention collective de travail après sa signature sont les suivantes :\n\n*   **Dépôt :** La convention doit être déposée sans frais, à l'initiative de la partie la plus diligente, auprès du greffe du tribunal de première instance compétent (de tout lieu où elle doit être appliquée) et auprès de l'autorité gouvernementale chargée du travail.\n*   **Récépissé :** Le greffe du tribunal et l'autorité gouvernementale chargée du travail doivent délivrer un récépissé de dépôt après réception de la convention.\n*   **Affichage :** Les établissements concernés doivent afficher un avis dans les lieux de travail et dans les locaux d'embauchage. Cet avis doit mentionner l'existence de la convention, les parties signataires, la date de dépôt et les autorités auprès desquelles elle a été déposée.\n*   **Mise à disposition :** Un exemplaire de la convention doit être tenu à la disposition des salariés.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse synthétise fidèlement les obligations de dépôt, de publicité et de mise à disposition prévues par l'article 106 du Code du travail marocain."
+  },
+  {
+    "question": "Est-ce que je dois payer des frais de greffe pour déposer une convention collective au tribunal de première instance ?",
+    "expected_article": "106",
+    "answer": "Non, vous n'avez pas à payer de frais. Selon l'article 106 du Code du travail, la convention collective de travail doit être déposée sans frais au greffe du tribunal de première instance compétent.",
+    "relevance": "RELEVANT",
+    "explanation": "La réponse est exacte, cite correctement l'article de référence et confirme explicitement l'absence de frais conformément au droit du travail marocain."
+  }
+]
