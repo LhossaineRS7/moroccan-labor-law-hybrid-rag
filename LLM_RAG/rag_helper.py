@@ -42,7 +42,7 @@ class RAGBase:
         self.index_name = "juris_maroc_vectors"
         self.embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
-    def search(self, query, num_results=5, k_rrf=1):
+    def search(self, query, num_results=10, k_rrf=1):
         """
         HYBRID SEARCH: BM25 (Keyword) + Vector k-NN (Meaning) : RRF Fusion
         """

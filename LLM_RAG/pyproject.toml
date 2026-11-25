@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "elasticsearch==8.4.3",
+    "fastapi>=0.165.0",
     "google-genai>=2.28.0",
     "jupyter>=1.1.1",
     "minsearch>=0.2.0",
@@ -17,6 +18,7 @@ dependencies = [
     "sentence-transformers>=6.2.0",
     "sqlitesearch>=0.3.0",
     "tenacity>=9.1.4",
+    "uvicorn>=0.54.0",
 ]
 
 [project.scripts]
