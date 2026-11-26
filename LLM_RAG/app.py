@@ -1,5 +1,6 @@
 import os
 from time import perf_counter
+from typing import Literal
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, Response
@@ -23,6 +24,11 @@ NO_INFO_COUNT = Counter(
     "rag_no_info_total",
     "Questions where RAG returned Je n'ai pas l'information",
 )
+FEEDBACK_COUNT = Counter(
+    "rag_feedback_total",
+    "User feedback on RAG answers",
+    ["vote"],  # "up" or "down"
+)
 LATENCY_HISTOGRAM = Histogram(
     "rag_stage_duration_seconds",
     "Time spent in each RAG stage",
@@ -32,6 +38,10 @@ LATENCY_HISTOGRAM = Histogram(
 
 class AskRequest(BaseModel):
     question: str = Field(min_length=1, max_length=1000)
+
+
+class FeedbackRequest(BaseModel):
+    vote: Literal["up", "down"]
 
 
 @app.post("/ask")
@@ -59,6 +69,12 @@ def ask(request: AskRequest):
         "retrieval_ms": round(retrieval_sec * 1000, 1),
         "total_ms": round((end - start) * 1000, 1),
     }
+
+
+@app.post("/feedback")
+def feedback(request: FeedbackRequest):
+    FEEDBACK_COUNT.labels(vote=request.vote).inc()
+    return {"status": "recorded", "vote": request.vote}
 
 
 @app.get("/metrics")

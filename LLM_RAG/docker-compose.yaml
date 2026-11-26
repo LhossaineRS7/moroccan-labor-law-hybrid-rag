@@ -5,9 +5,7 @@ services:
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-      # JVM limit set exactly to 512MB RAM
       - ES_JAVA_OPTS=-Xms512m -Xmx512m
-    #  Hard limit for the Docker container itself
     mem_limit: 1g
     ports:
       - "9200:9200"
@@ -17,8 +15,32 @@ services:
     networks:
       - rag_network
 
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    container_name: rag_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - rag_network
+
+  grafana:
+    image: grafana/grafana:11.1.0
+    container_name: rag_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    networks:
+      - rag_network
+
 volumes:
   es_data:
+    driver: local
+  grafana_data:
     driver: local
 
 networks:
